@@ -1,0 +1,63 @@
+
+[
+  {
+    "company": "Google",
+    "role": "Python Developer",
+    "difficulty": "Beginner",
+    "question": "What are the differences between a list and a tuple in Python?"
+  },
+  {
+    "company": "Google",
+    "role": "Python Developer",
+    "difficulty": "Intermediate",
+    "question": "Explain decorators in Python with an example."
+  },
+  {
+    "company": "Microsoft",
+    "role": "Software Developer",
+    "difficulty": "Beginner",
+    "question": "Explain the four main principles of object-oriented programming."
+  },
+  {
+    "company": "Microsoft",
+    "role": "Software Developer",
+    "difficulty": "Intermediate",
+    "question": "What is the difference between a stack and a queue?"
+  },
+  {
+    "company": "Amazon",
+    "role": "Python Developer",
+    "difficulty": "Intermediate",
+    "question": "How would you find duplicates in an array efficiently?"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Developer",
+    "difficulty": "Advanced",
+    "question": "Explain how a hash table works and discuss collision handling."
+  },
+  {
+    "company": "Infosys",
+    "role": "Python Developer",
+    "difficulty": "Beginner",
+    "question": "What are Python dictionaries and how do you access their values?"
+  },
+  {
+    "company": "TCS",
+    "role": "Data Analyst",
+    "difficulty": "Beginner",
+    "question": "What is the difference between SQL WHERE and HAVING clauses?"
+  },
+  {
+    "company": "TCS",
+    "role": "Data Analyst",
+    "difficulty": "Intermediate",
+    "question": "Explain the difference between INNER JOIN and LEFT JOIN."
+  },
+  {
+    "company": "Infosys",
+    "role": "Software Developer",
+    "difficulty": "Advanced",
+    "question": "Explain time complexity and space complexity with examples."
+  }
+]
